@@ -1,4 +1,4 @@
-## Привет всем! 👋
+### Привет всем! 👋
 Меня зовут **Игорь**.
 - 🌱Я изучаю:
   **Языки программирования:** Python, JavaScript, HTML/CSS
@@ -7,7 +7,7 @@
 - 📫 Связаться со мной: cherepanovig@gmail.com
 - ⚡ Цитата дня: "Каждый сам выбирает цвет своего неба..."
   
-### Языки и инструменты:
+## Языки и инструменты:
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -16,10 +16,10 @@
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-
+<!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+-->
 <img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" with="600">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherepanovig&show_icons=true&theme=radical)
