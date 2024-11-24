@@ -1,5 +1,5 @@
 ## Привет всем! 👋
-Меня зовут **Игорь**
+Меня зовут **Игорь**.
 - 🌱Я изучаю:
   **Языки программирования:** Python, JavaScript, HTML/CSS
   **Фреймворки:** SQLAlchemy, Django, Tortoise
