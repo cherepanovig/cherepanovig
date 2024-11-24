@@ -5,8 +5,6 @@
   **Фреймворки:** SQLAlchemy, Django, Tortoise
   **Базы данных:** MySQl, SQLite3, PostgreSQL
 - 📫 Связаться со мной: cherepanovig@gmail.com
-- ⚡ ### Цитата дня:
-
-"Каждый сам выбирает цвет своего неба..."
+- ⚡ Цитата дня: "Каждый сам выбирает цвет своего неба..."
 
 <img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" with="600">
