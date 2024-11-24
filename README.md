@@ -1,7 +1,7 @@
 ### Привет всем! 👋
 Меня зовут **Игорь**.
 
-<img align="right" src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" width="300">
+<img align="right" src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" width="400">
 
 ## 🧑‍💻 Обо мне
 
