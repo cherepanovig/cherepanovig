@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 -->
-<img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" with="600">
+<img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" width="600">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherepanovig&show_icons=true&theme=radical)
 
