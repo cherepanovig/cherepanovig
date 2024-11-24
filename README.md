@@ -10,4 +10,5 @@
 <img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" with="600">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherepanovig&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherepanovig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
