@@ -1,29 +1,64 @@
 ### Привет всем! 👋
 Меня зовут **Игорь**.
-- 🌱Я изучаю:
-  **Языки программирования:** Python, JavaScript, HTML/CSS
-  **Фреймворки:** SQLAlchemy, Django, Tortoise
-  **Базы данных:** MySQl, SQLite3, PostgreSQL
-- 📫 Связаться со мной: cherepanovig@gmail.com
+
+<img align="right" src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" width="300">
+
+## 🧑‍💻 Обо мне
+
+Я начинающий веб-разработчик с интересом к бэкенд-технологиям и базам данных. Люблю изучать новые технологии и применять их в реальных проектах.
+
 - ⚡ Цитата дня: "Каждый сам выбирает цвет своего неба..."
-  
-## Языки и инструменты:
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
+---
 
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
--->
-<img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" width="600">
+## 🌱 Я изучаю:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherepanovig&show_icons=true&theme=radical)
+- **Языки программирования:**
+  - Python
+  - JavaScript
+  - HTML/CSS
+- **Фреймворки и библиотеки:**
+  - Django
+  - SQLAlchemy
+  - Tortoise ORM
+- **Базы данных:**
+  - MySQL
+  - SQLite3
+  - PostgreSQL
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherepanovig&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherepanovig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Языки и инструменты:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Моя статистика:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cherepanovig&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cherepanovig&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherepanovig&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Связаться со мной:
+
+[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherepanovig@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherepanovig)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ваш_профиль) -->
+
+---
