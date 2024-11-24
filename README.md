@@ -7,9 +7,14 @@
 - 📫 Связаться со мной: cherepanovig@gmail.com
 - ⚡ Цитата дня: "Каждый сам выбирает цвет своего неба..."
   
-![GitHub followers](https://img.shields.io/github/followers/cherepanovig?style=social)
-![GitHub stars](https://img.shields.io/github/stars/cherepanovig?style=social)
+### Языки и инструменты:
+
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br />
 
 <img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" with="600">
 
