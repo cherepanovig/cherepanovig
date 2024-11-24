@@ -8,3 +8,5 @@
 - ⚡ Цитата дня: "Каждый сам выбирает цвет своего неба..."
 
 <img src="https://github.com/cherepanovig/cherepanovig/blob/main/Cat_1.gif" alt="The unlimited" with="600">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ваш_никнейм&theme=dark&hide_border=true)](https://git.io/streak-stats)
