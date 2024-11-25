@@ -20,7 +20,7 @@
 - **Фреймворки и библиотеки:**
   - Django
   - SQLAlchemy
-  - Tortoise ORM
+  - Tortoise
 - **Базы данных:**
   - MySQL
   - SQLite3
